@@ -1,0 +1,22 @@
+body{
+    background-color:#ccc;
+    /*
+    background-image: url("img/fondo2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-position: bottom;
+    */
+}
+
+#caja{
+    border: 5px solid black ;
+    padding: 10px;
+    background-color: rgb(64, 10, 165);
+    color: white;
+    font-family: "Open Sans";
+    text-align: justify;
+     line-height: 50px;
+     text-transform: uppercase;
+     text-decoration: underline;
+}
